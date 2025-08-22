@@ -1,5 +1,7 @@
 ## Bonne journée~ 😉
 > 这里是王浩的Github
+![](https://komarev.com/ghpvc/?username=wanghao8fh&label=Profile%20Visits&color=blue&style=for-the-badge)
+
 
 ### 这里有
 - 超多我觉得有意思的Star
